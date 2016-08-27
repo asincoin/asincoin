@@ -32,7 +32,7 @@ There are 3 types of branches in this repository:
 ## Very Much Frequently Asked Questions
 
 ### How much asincoin can exist? – So many puppies!
-Early 2015 (approximately a year and a half after release) there will be approximately 1,000,000,000 coins.
+Early 2016 (approximately a year and a half after release) there will be approximately 1,000,000,000 coins.
 Each subsequent block will grant 10,000 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
 
 ### How to get asincoin? – To the moon!
