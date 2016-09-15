@@ -1,4 +1,4 @@
-# Asincoin Core [DOGE, Ð]
+# Asincoin Core 
 ==========================
 
 ![Asincoin](https://avatars0.githubusercontent.com/u/21053389?v=3&s=400)
